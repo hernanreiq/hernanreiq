@@ -1,5 +1,5 @@
 # Te doy la bienvenida a mi perfil de GitHub
-## <img src="https://img.shields.io/static/v1?label=Nombre&message=Hernan&color=informational"> <img src="https://img.shields.io/static/v1?label=Apellidos&message=Demorizi Ureña&color=orange"> <img src="https://img.shields.io/static/v1?label=Nacionalidad&message=Dominicano&color=fff"> <img src="https://img.shields.io/static/v1?label=Ocupación&message=Desarrollador y diseñador web&color=a1a"> 
+## <img src="https://img.shields.io/static/v1?label=Nombre&message=Hernan&color=informational"> <img src="https://img.shields.io/static/v1?label=Apellidos&message=Demorizi Ureña&color=FF6100"> <img src="https://img.shields.io/static/v1?label=Nacionalidad&message=Dominicano&color=FF3200"> <img src="https://img.shields.io/static/v1?label=Ocupación&message=Desarrollador y diseñador web&color=B600FF"> 
 
 ___
 
@@ -28,4 +28,5 @@ ___
 
 ## Puedes contactar conmigo en mis redes sociales
 ### :sunglasses: [LinkedIn](https://www.linkedin.com/in/hernan-demorizi-ure%C3%B1a-4430031b1/) 
+### :flushed: [Correo electrónico](mailto:hernandemure1202@gmail.com) 
 ### :laughing: [Instagram](https://www.instagram.com/hernan.reiq/) 
