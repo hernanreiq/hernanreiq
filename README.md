@@ -1,5 +1,5 @@
 # Te doy la bienvenida a mi perfil de GitHub
-## <img src="https://img.shields.io/static/v1?label=Nombre&message=Hernan&color=informational"> <img src="https://img.shields.io/static/v1?label=Apellidos&message=Demorizi Ureña&color=FF6100"> <img src="https://img.shields.io/static/v1?label=Nacionalidad&message=Dominicano&color=FF3200"> <img src="https://img.shields.io/static/v1?label=Ocupación&message=Desarrollador y diseñador web&color=B600FF"> 
+## <img src="https://img.shields.io/static/v1?label=Nombre&message=Hernan&color=informational"> <img src="https://img.shields.io/static/v1?label=Apellidos&message=Demorizi Ureña&color=fff"> <img src="https://img.shields.io/static/v1?label=Nacionalidad&message=Dominicano&color=ff0000"> <img src="https://img.shields.io/static/v1?label=Ocupación&message=Desarrollador y diseñador web&color=informational"> 
 
 ___
 
