@@ -1,11 +1,5 @@
 # Te doy la bienvenida a mi perfil de GitHub
-## <img src="https://img.shields.io/badge/Nombre%20completo-Hernan%20V.%20Demorizi%20Ure%C3%B1a-informational">
-
-## <img src="https://img.shields.io/badge/Nacionalidad-Dominicano-ffffff"> 
-
-## <img src="https://img.shields.io/badge/Ocupaci%C3%B3n-Desarrollador%20y%20dise%C3%B1ador%20web-ff0000"> 
-
-___
+# <img src="https://img.shields.io/badge/Nombre%20completo-Hernan%20V.%20Demorizi%20Ure%C3%B1a-informational"> <img src="https://img.shields.io/badge/Nacionalidad-Dominicano-ffffff"> <img src="https://img.shields.io/badge/Ocupaci%C3%B3n-Desarrollador%20y%20dise%C3%B1ador%20web-ff0000"> 
 
 ## Estas son mis estadísticas de GitHub resumidas
 <img src = "https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27">
