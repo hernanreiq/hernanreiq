@@ -5,7 +5,7 @@
 ___
 
 ## Estas son mis estadísticas resumidas de GitHub :chart_with_upwards_trend:
-![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27)
+![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
 ___
 
