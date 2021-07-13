@@ -30,11 +30,23 @@ ___
 * **Golden Lottery**
 * **Graphic design**
 
+### También podrás ver algunas de mis habilidades como:
+
+|*Habilidades importantes*|
+|:---:|
+|HTML5|
+|CSS3|
+|JavaScript|
+|Bootstrap|
+|PHP|
+|MySQL|
+|Node.js|
+|Photoshop|
 ___
 
-## Puedes contactar conmigo en mis redes sociales :heart_eyes:
+## Contacta conmigo :+1:
 ### :sunglasses: [LinkedIn](https://www.linkedin.com/in/hernan-demorizi-ure%C3%B1a-4430031b1/) 
-### :flushed: [Correo electrónico](mailto:hernandemure1202@gmail.com) 
+### :email: [Correo electrónico](mailto:hernandemure1202@gmail.com) 
 ### :laughing: [Instagram](https://www.instagram.com/hernan.reiq/) 
 ___
 
