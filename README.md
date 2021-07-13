@@ -32,7 +32,7 @@ ___
 
 ### También podrás ver algunas de mis habilidades como:
 
-|*Habilidades importantes*|
+|*Habilidades para resaltar*|
 |:---:|
 |HTML5|
 |CSS3|
