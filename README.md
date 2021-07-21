@@ -4,18 +4,18 @@
 ![Ocupación](https://img.shields.io/badge/Ocupaci%C3%B3n-Desarrollador%20y%20dise%C3%B1ador%20web-ff0000)
 ___
 
-## Estas son mis estadísticas resumidas de GitHub :chart_with_upwards_trend:
+## Estas son mis estadísticas de GitHub resumidas :chart_with_upwards_trend:
 ![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
 ___
 
 ## Mis rachas :fire:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hernanreiq&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hernanreiq&theme=tokyonight&count_private=true)  
 
 ___
 
 ## Estos son los lenguajes que más suelo utilizar :computer:
-![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanreiq&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight)
+![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanreiq&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
 
 ___
 
