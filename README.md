@@ -50,4 +50,4 @@ ___
 ___
 
 ## Profile visitors :joy:
-![VisitorCount](https://profile-counter.glitch.me/hernan-reiq/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
