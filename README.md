@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan.Reiq)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan)](https://git.io/typing-svg)
 
 I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
 ___
