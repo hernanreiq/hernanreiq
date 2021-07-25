@@ -1,36 +1,37 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan.Reiq)](https://git.io/typing-svg)
 
-![](https://gitwar.herokuapp.com/badge?username=hernanreiq&color=3B93F7&style=flat-square&label=FULL+NAME&message=HERNAN+VIRGILIO+DEMORIZI+URENA)
+I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
+___
 
 ## These are my summarized GitHub stats :chart_with_upwards_trend:
 ![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
 ___
 
-## Mis rachas :fire:
+## My streaks :fire:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hernanreiq&theme=tokyonight&count_private=true)  
 
 ___
 
-## Estos son los lenguajes que más suelo utilizar :computer:
-![Lenguajes que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanreiq&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
+## These are the skills that I use the most :computer:
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanreiq&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
 
 ___
 
-## Quiero compartir contigo mi portafolio de proyectos y habilidades :wink:
+## Portfolio of projects and skills :wink:
 
-### :heart: [Portafolio de desarrollo y diseño web](https://bit.ly/hernanreiq)
+### :heart: [Web design and development portfolio](https://bit.ly/hernanreiq)
 
-### Allí podrás encontrar proyectos como:
-* **Simulador de Uber**
-* **Generador de contraseñas**
+### There you can find projects such as:
+* **Uber simulator**
+* **Password generator**
 * **Reiq Films**
 * **Golden Lottery**
 * **Graphic design**
 
-### También podrás ver algunas de mis habilidades como:
+### You will also know some of my skills such as:
 
-|*Habilidades para resaltar*|
+|*Skills*|
 |:---:|
 |HTML5|
 |CSS3|
@@ -42,11 +43,11 @@ ___
 |Photoshop|
 ___
 
-## Contacta conmigo :+1:
+## Contact me :+1:
 ### :sunglasses: [LinkedIn](https://www.linkedin.com/in/hernan-demorizi-ure%C3%B1a-4430031b1/) 
-### :email: [Correo electrónico](mailto:hernandemure1202@gmail.com) 
+### :email: [Email](mailto:hernandemure1202@gmail.com) 
 ### :laughing: [Instagram](https://www.instagram.com/hernan.reiq/) 
 ___
 
-## Contador de visitas :joy:
+## Profile visitors :joy:
 ![VisitorCount](https://profile-counter.glitch.me/hernan-reiq/count.svg)
