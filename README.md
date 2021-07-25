@@ -20,7 +20,7 @@ ___
 
 ## Portfolio of projects and skills :wink:
 
-### :heart: [Web design and development portfolio](https://bit.ly/hernanreiq)
+### :heart: [Web design and development portfolio (In spanish)](https://bit.ly/hernanreiq)
 
 ### There you can find projects such as:
 * **Uber simulator**
