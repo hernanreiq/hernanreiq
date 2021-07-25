@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+my+name+is+Hernan)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan.Reiq)](https://git.io/typing-svg)
 
-## I welcome you to my GitHub profile
+![FULL NAME](https://gitwar.herokuapp.com/badge?username=hernanreiq&color=3B93F7&style=flat-square&label=HERNAN+VIRGILIO+DEMORIZI+URENA)
 
 ## These are my summarized GitHub stats :chart_with_upwards_trend:
 ![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
