@@ -1,10 +1,8 @@
-# Te doy la bienvenida a mi perfil de GitHub :wave:
-![Nombre completo](https://img.shields.io/badge/Nombre%20completo-Hernan%20V.%20Demorizi%20Ure%C3%B1a-informational)
-![Nacionalidad](https://img.shields.io/badge/Nacionalidad-Dominicano-ffffff)
-![Ocupación](https://img.shields.io/badge/Ocupaci%C3%B3n-Desarrollador%20y%20dise%C3%B1ador%20web-ff0000)
-___
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+my+name+is+Hernan)](https://git.io/typing-svg)
 
-## Estas son mis estadísticas de GitHub resumidas :chart_with_upwards_trend:
+## I welcome you to my GitHub profile
+
+## These are my summarized GitHub stats :chart_with_upwards_trend:
 ![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
 ___
@@ -51,4 +49,4 @@ ___
 ___
 
 ## Contador de visitas :joy:
-![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/hernan-reiq/count.svg)
