@@ -23,7 +23,9 @@ ___
 ### :heart: [Web design and development portfolio (In spanish)](https://bit.ly/hernanreiq)
 
 ### There you can find projects such as:
+* **PC Store CMS**
 * **Uber simulator**
+* **Trade Calculator**
 * **Password generator**
 * **Reiq Films**
 * **Golden Lottery**
@@ -40,6 +42,7 @@ ___
 |PHP|
 |MySQL|
 |Node.js|
+|MongoDB|
 |Photoshop|
 ___
 
