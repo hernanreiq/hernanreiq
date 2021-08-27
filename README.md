@@ -23,14 +23,15 @@ ___
 ### :heart: [Web design and development portfolio (In spanish)](https://bit.ly/hernanreiq)
 
 ### There you can find projects such as:
+* **Notes Network**
 * **PC Store CMS**
 * **Uber simulator**
+* **Golden Lottery**
 * **Trade Calculator**
+* **Graphic design**
 * **Password generator**
 * **Reiq Films**
-* **Golden Lottery**
-* **Graphic design**
-
+#### **And over 15 projects I haven't mentioned yet!**
 ### You will also know some of my skills such as:
 
 |*Skills*|
