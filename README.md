@@ -32,7 +32,7 @@ ___
 * **Password generator**
 * **Reiq Films**
 #### **And over 15 projects I haven't mentioned yet!**
-### You will also know some of my skills such as:
+### Some of the skills that I highlight in my portfolio are::
 
 |*Skills*|
 |:---:|
@@ -45,6 +45,7 @@ ___
 |Node.js|
 |MongoDB|
 |Photoshop|
+### But there are also some interesting technologies that you are sure to want to learn too!
 ___
 
 ## Contact me :+1:
