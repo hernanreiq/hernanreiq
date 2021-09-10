@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan)](https://git.io/typing-svg)
 
-I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
+### I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
 ___
 
 ## These are my summarized GitHub stats :chart_with_upwards_trend:
@@ -31,7 +31,7 @@ ___
 * **Graphic design**
 * **Password generator**
 * **Reiq Films**
-#### **And over 15 projects I haven't mentioned yet!**
+### **And over 15 projects I haven't mentioned yet!**
 ### Some of the skills that I highlight in my portfolio are::
 
 |*Skills*|
