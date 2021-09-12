@@ -45,7 +45,7 @@ ___
 |Node.js|
 |Express.js|
 |MongoDB|
-|React.js|
+|React|
 |Photoshop|
 ### But there are also some interesting technologies that you are sure to want to learn too!
 ___
