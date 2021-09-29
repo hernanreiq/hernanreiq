@@ -33,7 +33,7 @@ ___
 * **Reiq Films**
 ### **And over 15 projects I haven't mentioned yet!**
 ___
-## I know how to develop and design complete web pages using two stacks.
+## I use two web design and development stacks in my portfolio projects.
 ### **My first stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,6 @@ ___
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-### But I also use some libraries that provide a lot of dynamism when developing and designing complete web pages.
 ___
 
 ## Contact me :+1:
