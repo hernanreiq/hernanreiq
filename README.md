@@ -24,7 +24,7 @@ ___
 
 ### There you can find projects such as:
 * **Notes Network**
-* **PC Store CMS**
+* **Quality Writer**
 * **Uber simulator**
 * **Golden Lottery**
 * **Trade Calculator**
@@ -32,22 +32,20 @@ ___
 * **Password generator**
 * **Reiq Films**
 ### **And over 15 projects I haven't mentioned yet!**
-### Some of the skills that I highlight in my portfolio are::
-
-|*Skills*|
-|:---:|
-|HTML5|
-|CSS3|
-|JavaScript|
-|Bootstrap|
-|PHP|
-|MySQL|
-|Node.js|
-|Express.js|
-|MongoDB|
-|React|
-|Photoshop|
-### But there are also some interesting technologies that you are sure to want to learn too!
+___
+## I know how to develop and design complete web pages using two stacks.
+### **My first stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### **My second stack:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### But I also use some libraries that provide a lot of dynamism when developing and designing complete web pages.
 ___
 
 ## Contact me :+1:
