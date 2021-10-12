@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan)](https://git.io/typing-svg)
-
 <div align="justify">
+
+![header](img/header.jpg)
 
 ### I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
 ___
@@ -9,7 +9,7 @@ ___
 <div align="center" >
 
 ## These are my summarized GitHub stats :chart_with_upwards_trend:
-![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+![Estadística resumidas de GitHub](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
 
 ___
 
@@ -67,6 +67,6 @@ ___
 ___
 
 ## Profile visitors :joy:
-![VisitorCount](https://profile-counter.glitch.me/hernan-reiq/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
 
 </div>
