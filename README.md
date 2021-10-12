@@ -1,7 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=369CF7&size=28&lines=Hi%2C+I'm+Hernan)](https://git.io/typing-svg)
 
+<div align="justify">
+
 ### I'm a computer and systems engineer who loves to develop and design web applications. Every day I try to learn something new or reinforce the knowledge I already have, since I want to become a benchmark for quality and discipline.
 ___
+
+</div>
+<div align="center" >
 
 ## These are my summarized GitHub stats :chart_with_upwards_trend:
 ![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=hernanreiq&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
@@ -18,19 +23,27 @@ ___
 
 ___
 
+
 ## Portfolio of projects and skills :wink:
 
-### :heart: [Web design and development portfolio (In spanish)](https://bit.ly/hernanreiq)
+### :heart: [Web design and development portfolio (In spanish)](https://bit.ly/hernanreiq) :heart:
 
 ### There you can find projects such as:
-* **Notes Network**
-* **Quality Writer**
-* **Uber simulator**
-* **Golden Lottery**
-* **Trade Calculator**
-* **Graphic design**
-* **Password generator**
-* **Reiq Films**
+**Notes Network**
+
+**Quality Writer**
+
+**Uber simulator**
+
+**Golden Lottery**
+
+**Trade Calculator**
+
+**Graphic design**
+
+**Password generator**
+
+**Reiq Films**
 ### **And over 20 projects I haven't mentioned yet!**
 ___
 ## I use two web design and development stacks in my portfolio projects.
@@ -54,4 +67,6 @@ ___
 ___
 
 ## Profile visitors :joy:
-![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/hernan-reiq/count.svg)
+
+</div>
