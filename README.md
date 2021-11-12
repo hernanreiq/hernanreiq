@@ -44,7 +44,7 @@ ___
 **Password generator**
 
 **Reiq Films**
-### **And over 20 projects I haven't mentioned yet!**
+### **And over 25 projects I haven't mentioned yet!**
 ___
 ## I use two web design and development stacks in my portfolio projects.
 ### **My first stack:**
