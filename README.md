@@ -18,11 +18,6 @@ ___
 
 ___
 
-## These are the skills that I use the most :computer:
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanreiq&layout=compact&show_icons=true&langs_count=10,html&theme=tokyonight&count_private=true)
-
-___
-
 
 ## Portfolio of projects and skills :wink:
 
